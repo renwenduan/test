@@ -8,4 +8,4 @@
 	ck = checkout
 	ckb = checkout -b 
 	br = branch -v
-	brnm = git branch --no-merged
+	brnm = branch --no-merged
