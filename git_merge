@@ -1,2 +1,6 @@
 test for merge
+<<<<<<< HEAD
 conflict one
+=======
+config two
+>>>>>>> r2
