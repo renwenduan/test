@@ -8,4 +8,6 @@
 	ck = checkout
 	ckb = checkout -b 
 	br = branch -v
-	brnm = branch --no-merged
+	brm = branch -v --merge
+	brnm = branch -v --no-merged
+
